@@ -19,12 +19,11 @@ a{
 }
 
 .prof_pic{
-	display: inline-block;
-	vertical-align: top;
+	width: 60%;
+	float: left;
 }
 
 .details{
-	display: inline-block;
 	font-family: "Cabin",sans-serif;
 }	
 
@@ -43,12 +42,13 @@ a{
 
 .al_bot{
 	margin-top: 2%;
+	margin-bottom: 2%;
 }
 
 .desc_box{
 	position: absolute;
 	width: 50%;
-	height: 50%;
+	height: auto;
 	top: 50%;
 	left: 50%;
 	transform: translate(-50%,-50%);
