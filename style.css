@@ -63,20 +63,31 @@ a{
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c42c9e', endColorstr='#319ad3', GradientType=1 );
 }
 
-.al_bot a:hover{
-	text-decoration: none;
-	color: white;
-}
-
 .al_bot a:visited{
 	text-decoration: none;
 	color: white;
 }
 
-.linked_in:hover{
+a.linked_in_l:hover{
 	color:#0077B5;
 }
 
-.g_plus:hover{
+a.g_plus_l:hover{
 	color:#d34836;
+}
+
+a.behance_l:hover{
+	color: #1769ff;
+}
+
+a.steam_l:hover{
+	color:#000;
+}
+
+a.snapchat_l:hover{
+	color:#fffc00;
+}
+
+a.soundcloud_l:hover{
+	color:#f70;
 }
